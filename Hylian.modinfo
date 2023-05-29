@@ -6,6 +6,7 @@
 		<Description>LOC_MOD_DESCRIPTION</Description>
 		<Authors>LOC_MOD_AUTHORS</Authors>
 		<SpecialThanks>LOC_MOD_SPECIAL_THANKS</SpecialThanks>
+			<CompatibleVersions>2.0</CompatibleVersions>
 	</Properties>
 	<Components>
 		<ImportFiles id="HYLIAN_IMPORT">
