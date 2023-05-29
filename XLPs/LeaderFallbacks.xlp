@@ -19,7 +19,7 @@
         <Element>LINUX</Element>
         <Element>MACOS</Element>
         <Element>IOS</Element>
-        <Element>Android</Element>
+        <Element>ANDROID</Element>
     </m_AllowedPlatforms>
 </AssetObjects::XLP>
 
