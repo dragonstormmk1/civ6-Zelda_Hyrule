@@ -18,6 +18,7 @@
         <Element>WINDOWS</Element>
         <Element>LINUX</Element>
         <Element>MACOS</Element>
+        <Element>Android</Element>
     </m_AllowedPlatforms>
 </AssetObjects::XLP>
 
